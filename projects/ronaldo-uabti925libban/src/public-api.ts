@@ -3,3 +3,4 @@
  */
 
 export * from './lib/ronaldo-uabti925libban';
+export * from './lib/ronaldo-uabti925libban-label';
