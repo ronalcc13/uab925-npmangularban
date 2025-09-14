@@ -1,9 +1,10 @@
 import { Component, signal } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
-
+import { LabelEspecial } from 'ronaldo-uabti925libban'; 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet],
+  standalone: true,
+  imports: [RouterOutlet,LabelEspecial],
   templateUrl: './app.html',
   styleUrl: './app.scss'
 })

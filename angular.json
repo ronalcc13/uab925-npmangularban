@@ -56,7 +56,7 @@
               }
             ],
             "styles": [
-              "projects/vista/src/styles.scss"
+              "projects/vista/src/app/app.scss"
             ]
           },
           "configurations": {
