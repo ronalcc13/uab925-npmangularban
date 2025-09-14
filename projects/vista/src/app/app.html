@@ -1,5 +1,6 @@
 <h2>Probando Label Especial</h2>
-
+<lib-banner-animado [slides]="banners" [tiempo]="8000"></lib-banner-animado>
+<hr/>
 <lib-label-especial #miNombre texto="Nombre:" icono="1" color="#28a745"></lib-label-especial>
 <button (click)="miNombre.cambiarTexto('Cambiado:')" class="btn btn-primary">Cambiar Label</button>
 
