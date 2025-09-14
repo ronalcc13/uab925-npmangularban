@@ -1,6 +1,12 @@
 {
   "name": "ronaldo-uabti925libban",
   "version": "0.0.1",
+  "description": "Una librería Angular para mostrar banners animados",
+  "author": "Ronaldo Cahuasiri",
+  "license": "MIT",
+  "main": "ronaldo-uabti925libban.mjs",
+  "module": "ronaldo-uabti925libban.mjs",
+  "types": "index.d.ts",
   "peerDependencies": {
     "@angular/common": "^20.3.0",
     "@angular/core": "^20.3.0"
